@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanDate", "RomanDate\RomanDate.csproj", "{63AB1C73-A197-4FDA-993F-993EE88DE370}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanDate.Test", "RomanDate.Test\RomanDate.Test.csproj", "{D75223D6-7443-4AB1-BD04-22F6D68BD3AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63AB1C73-A197-4FDA-993F-993EE88DE370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AB1C73-A197-4FDA-993F-993EE88DE370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AB1C73-A197-4FDA-993F-993EE88DE370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AB1C73-A197-4FDA-993F-993EE88DE370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75223D6-7443-4AB1-BD04-22F6D68BD3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75223D6-7443-4AB1-BD04-22F6D68BD3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75223D6-7443-4AB1-BD04-22F6D68BD3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75223D6-7443-4AB1-BD04-22F6D68BD3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {009383EA-A153-414C-9068-60E27B0F4E53}
+	EndGlobalSection
+EndGlobal
